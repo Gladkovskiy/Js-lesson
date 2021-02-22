@@ -75,12 +75,12 @@ var isCheked = true,
 // ·        Массив товаров shopGoods
 // ·        Объект с сотрудниками employers
 // ·        Свойство open
-var mainList = {
+/*var mainList = {
 				budget: 100,
 				nameMagazin: 'Andrey',
 				shopGoods: [],
 				open: false
-}
+}*/
 // Задать пользователю 3 раза вопрос "Какой тип товаров будем продавать?" и записать ответы в массив shopGoods
 // for (let i = 0; i < 3; i++) {
 // 	mainList.shopGoods[i] = prompt('Какой тип товаров будем продавать?')
@@ -94,7 +94,7 @@ var mainList = {
 // ·        Вывести в консоль произведение (умножение) цифр этого числа.
 // Полученный результат возвести в степень 3, используя только 1 оператор
 // ·        Вывести его на экран
-var num = 33722;
+/*var num = 33722;
 var result = 1;
 
 for (let i = 5; i > 0; i--) {
@@ -110,3 +110,4 @@ for (let i = 5; i > 0; i--) {
 	console.log(result);
 }
 alert(Math.pow(result, 3));
+*/
