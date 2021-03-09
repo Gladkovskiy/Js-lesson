@@ -1,5 +1,5 @@
 //объявление переменных
-var first = 1;
+/*var first = 1;
 const pi = 3.14; // нельзя менять
 {
 	let second = 2; //локальные переменные которые видны в функции
@@ -21,7 +21,7 @@ obj = {
 // console.log(obj["name"]);
 
 //массив, нумерация начинается с 0
-var arr = ['plum', 'orange', 'apple'];
+var arr = ['plum', 'orange', 'apple'];*/
 
 // console.log(arr[2]); //вывод в консоль разработчика
 
@@ -40,9 +40,9 @@ var arr = ['plum', 'orange', 'apple'];
 // console.log('obj ' + 10);
 // console.log(arr + 10);
 
-var  incr = 20,
+/*var  incr = 20,
      decr = 20;
-
+*/
 // incr++;
 // decr--;
 // console.log(incr);
@@ -52,8 +52,8 @@ var  incr = 20,
 // console.log(incr == '21'); //сравнение не обращая внимание на тип
 // console.log(incr === '21');//сравнение с учётом типа данных
 
-var isCheked = true,
-    isNotCheked = false;
+/*var isCheked = true,
+    isNotCheked = false;*/
 
 // console.log(isCheked && !isNotCheked);	//и
 // console.log(!isCheked || isNotCheked); //или	
